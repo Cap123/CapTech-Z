@@ -7,9 +7,9 @@ exports.httpsVisiblePort = '443'; //forwarded https port the user sees
 
 
 //SSL Info
-exports.country = "US";
-exports.state = "New York";
-exports.locale = "New York";
+exports.country = "England";
+exports.state = "London";
+exports.locale = "London";
 exports.commonName = "captechz.local";
 exports.subjectAltName = "DNS:192.168.0.1";
 
